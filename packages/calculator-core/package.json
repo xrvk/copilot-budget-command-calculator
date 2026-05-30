@@ -1,0 +1,10 @@
+{
+  "name": "@copilot-budget/calculator-core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pure budget math for the Copilot Budget Command Calculator. No DOM, no React, no IO.",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}

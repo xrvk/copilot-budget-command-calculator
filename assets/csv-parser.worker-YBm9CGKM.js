@@ -1,0 +1,1 @@
+function e(e){return new Worker(`/copilot-budget-command-calculator/assets/csv-parser.worker-CflrX1vy.js`,{name:e?.name})}export{e as default};

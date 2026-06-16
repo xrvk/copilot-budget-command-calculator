@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+*.md
+scripts
+hooks
+.env.local
